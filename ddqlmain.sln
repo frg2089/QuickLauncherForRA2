@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ddqlmain", "ddqlmain\ddqlmain.csproj", "{9EC09F49-D959-4E63-81F7-AD38D5A3CBBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ddqlmain", "ddqlmain\ddqlmain.csproj", "{2252A482-9C8F-4491-9DEE-F0FEA0CCD3EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9EC09F49-D959-4E63-81F7-AD38D5A3CBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9EC09F49-D959-4E63-81F7-AD38D5A3CBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9EC09F49-D959-4E63-81F7-AD38D5A3CBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9EC09F49-D959-4E63-81F7-AD38D5A3CBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2252A482-9C8F-4491-9DEE-F0FEA0CCD3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2252A482-9C8F-4491-9DEE-F0FEA0CCD3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2252A482-9C8F-4491-9DEE-F0FEA0CCD3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2252A482-9C8F-4491-9DEE-F0FEA0CCD3EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
